@@ -10,7 +10,7 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
 ### Tools and skills
 
 * OS
-  * [Windows](https://www.microsoft.com/pl-pl/windows){:target="_blank" rel="noopener"}
+  * [Windows](https://www.microsoft.com/pl-pl/windows {:target="_blank" rel="noopener"})
   * [Windows](https://www.microsoft.com/pl-pl/windows)
   * [Android](https://www.android.com/intl/pl_pl/)
 
