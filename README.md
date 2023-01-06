@@ -9,6 +9,8 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
 
 ### Tools and skills
 
+This section contains the tools I've had the opportunity to use and the skills I've acquired. I'm still expanding it.
+
 * **OS**
   * [Windows](https://www.microsoft.com/pl-pl/windows)
   * [Android](https://www.android.com/intl/pl_pl/)
@@ -32,6 +34,8 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
 
 ## Learning materials
 
+This section contains materials that I used during my studies. There's plenty of material available, so I'm always looking for opportunities to develop.
+
 * [ISTQB Certified Tester Foundation Level (CTFL)](https://www.istqb.org/certifications/certified-tester-foundation-level) - I read the syllabus on my own, **without certification**
 
 ### Books
@@ -54,6 +58,7 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
 
 ## My individual projects
 
+I would personally call this section the most interesting. I will be adding more and more of my own projects here soon.
 
 ### Issues reports
 
@@ -63,11 +68,11 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
 
 ## uTest
 
+This section contains examples of issues I've reported and examples of test cases I've executed on the uTest - crowdtesting platform.
 
 ### Issues reports
 
 
 ### Test cases
 
-
-### My statistics
+I would like to emphasize that the **test cases were not written by me**. As a manual tester, I only dealt with execution.
