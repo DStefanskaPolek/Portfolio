@@ -19,7 +19,7 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
   * Jira
   * Postman
   * SQL
-  * GET
+   * GET
 # Learning materials
 * [ISTQB Certified Tester Foundation Level (CTFL)](https://www.istqb.org/certifications/certified-tester-foundation-level)
 ## Books
