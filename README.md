@@ -20,7 +20,7 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
   * Postman
   * SQL: SELECT, INSERT, UPDATE, DELETE
 # Learning materials
-* [ISTQB Certified Tester Foundation Level (CTFL)](https://www.istqb.org/certifications/certified-tester-foundation-level)
+* [ISTQB Certified Tester Foundation Level (CTFL)](https://www.istqb.org/certifications/certified-tester-foundation-level) - I read the syllabus on my own, without certification
 ## Books
 * R. Smilgin - Zawód Tester
 ## Groups on Facebook
