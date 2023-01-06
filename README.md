@@ -27,8 +27,8 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
   * [Postman](https://www.postman.com/)
 
 * **Skills**
-  * ***SQL***: SELECT, INSERT, UPDATE, DELETE, WHERE
-  * ***API***: GET
+  * **SQL**: SELECT, INSERT, UPDATE, DELETE, WHERE
+  * **API**: GET
 
 ## Learning materials
 
