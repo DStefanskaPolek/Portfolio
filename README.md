@@ -18,7 +18,7 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
 * Skills
   * [Jira](https://www.atlassian.com/pl/software/jira)
   * [Postman](https://www.postman.com/)
-  * SQL: SELECT, INSERT, UPDATE, DELETE
+  * SQL: SELECT, INSERT, UPDATE, DELETE, WHERE
 ## Learning materials
 * [ISTQB Certified Tester Foundation Level (CTFL)](https://www.istqb.org/certifications/certified-tester-foundation-level) - I read the syllabus on my own, without certification
 ### Books
@@ -30,6 +30,8 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
 * [testerzy.pl](https://testerzy.pl/)
 * [testuj.pl](https://testuj.pl/)
 * [w3schools.com](https://www.w3schools.com/)
+* [Remigiusz Bednarczyk Dowiedz się, jak zostać testerem](https://remigiuszbednarczyk.pl/jak-zostac-testerem)
+* [sqlpedia.pl](https://www.sqlpedia.pl/kurs-sql/)
 ## My individual projects
 ### Issues reports
 ### Test cases
