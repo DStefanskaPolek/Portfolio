@@ -16,10 +16,7 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
   * AZ Screen Recorder
   * HandBrake
 * Skills
- * Jira
- * Postman
- * SQL
-  * GET
+*  * Jira
 # Learning materials
 * [ISTQB Certified Tester Foundation Level (CTFL)](https://www.istqb.org/certifications/certified-tester-foundation-level)
 ## Books
