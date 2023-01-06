@@ -18,15 +18,21 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
 * Skills
   * Jira
   * Postman
-  * SQL
-   * GET
+  * SQL: SELECT, INSERT, UPDATE, DELETE
 # Learning materials
 * [ISTQB Certified Tester Foundation Level (CTFL)](https://www.istqb.org/certifications/certified-tester-foundation-level)
 ## Books
 * R. Smilgin - Zawód Tester
 ## Groups on Facebook
+* [Testowanie oprogramowania](https://pl-pl.facebook.com/groups/TestowanieOprogramowania/)
+* [Tester oprogramowania - wsparcie na starcie](https://pl-pl.facebook.com/groups/testeroprogramowania/)
 ## Recommended blogs
+* [testerzy.pl](https://testerzy.pl/)
+* [testuj.pl](https://testuj.pl/)
 # My individual projects
 ## Issues reports
 ## Test cases
 # uTest
+## Issues reports
+## Test cases
+## My statistics
