@@ -17,6 +17,7 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
   * HandBrake
 * Skills
 # Learning materials
+* [ISTQB Certified Tester Foundation Level (CTFL)](https://www.istqb.org/certifications/certified-tester-foundation-level)
 ## Books
 * R. Smilgin - Zawód Tester
 ## Groups on Facebook
