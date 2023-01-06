@@ -8,7 +8,7 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
 * R. Smilgin - Zawód Tester
 ## Groups on Facebook
 ## Recommended blogs
-# My Projects
+# My individual projects
 ## Issues reports
 ## Test cases
 # uTest
