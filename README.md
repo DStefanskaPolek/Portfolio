@@ -8,6 +8,6 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
 ## Groups on Facebook
 ## Recommended blogs
 # My Projects
-##Issues reports
-##Test cases
+## Issues reports
+## Test cases
 # uTest
