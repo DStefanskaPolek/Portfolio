@@ -31,10 +31,10 @@ My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the 
 ### Recommended websites
 * [testerzy.pl](https://testerzy.pl/)
 * [testuj.pl](https://testuj.pl/)
-* [w3schools.com](https://www.w3schools.com/)
+* [w3schools](https://www.w3schools.com/)
 * [Remigiusz Bednarczyk - Dowiedz się, jak zostać testerem](https://remigiuszbednarczyk.pl/jak-zostac-testerem)
-* [sqlpedia.pl](https://www.sqlpedia.pl/kurs-sql/)
-* [guru99.com](https://www.guru99.com/)
+* [sqlpedia](https://www.sqlpedia.pl/kurs-sql/)
+* [guru99](https://www.guru99.com/)
 ## My individual projects
 ### Issues reports
 ### Test cases
