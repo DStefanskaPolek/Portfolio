@@ -83,7 +83,7 @@ This section contains examples of issues I've reported and examples of test case
 
 ### Issues reports
 
-[uTest](https://github.com/DStefanskaPolek/Portfolio/blob/additional/Issue%20report%20uTest%20example%201.png)
+[uTest](https://github.com/DStefanskaPolek/Portfolio/blob/additional/My%20activity%20uTest.png)
 
 
 ### Test cases
