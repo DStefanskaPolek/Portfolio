@@ -5,15 +5,25 @@ Currently, work on the portfolio is in progress, as the progress is made, the co
 
 ### About me
 
-My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the Tischner European University in Krakow. I have been interested in testing for two years and I am learning on my own in my spare time. Recently, I also took steps to start my first full-time job as a software tester. So thank you for visiting my repository. It means a lot to me.
+My name is Daria Stefańska-Polek. I graduated from Scandinavian studies at the Tischner European University in Krakow. I have been interested in testing for two years and I am learning on my own in my spare time. Recently, I also took steps to start my first full-time job as a software tester.
+
+Thank you for visiting my repository. It means a lot to me.
 
 ### Tools and skills
 
 This section contains the tools I've had the opportunity to use and the skills I've acquired. I'm still expanding it.
 
-* **OS**
-  * [Windows](https://www.microsoft.com/pl-pl/windows)
-  * [Android](https://www.android.com/intl/pl_pl/)
+* **Software testing tools**
+  * [Jira](https://www.atlassian.com/pl/software/jira)
+  * [Postman](https://www.postman.com/)
+  * [Testlink](https://www.testlink.org/)
+
+* **Skills**
+  * **SQL**: SELECT, INSERT, UPDATE, DELETE, WHERE
+  * **API**: GET
+  * Test cases executing
+  * Issues reporting
+  * Log collecting
 
 * **Tools**
   * [Github](https://github.com/)
@@ -23,14 +33,11 @@ This section contains the tools I've had the opportunity to use and the skills I
   * [Charles Proxy](https://www.charlesproxy.com/)
   * [AZ Screen Recorder](https://az-screen-recorder.en.uptodown.com/android)
   * [HandBrake](https://handbrake.fr/)
+  * [Android SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
 
-* **Software testing tools**
-  * [Jira](https://www.atlassian.com/pl/software/jira)
-  * [Postman](https://www.postman.com/)
-
-* **Skills**
-  * **SQL**: SELECT, INSERT, UPDATE, DELETE, WHERE
-  * **API**: GET
+* **OS**
+  * [Windows](https://www.microsoft.com/pl-pl/windows)
+  * [Android](https://www.android.com/intl/pl_pl/)
 
 ## Learning materials
 
@@ -55,6 +62,10 @@ This section contains materials that I used during my studies. There's plenty of
 * [Remigiusz Bednarczyk - Dowiedz się, jak zostać testerem](https://remigiuszbednarczyk.pl/jak-zostac-testerem)
 * [sqlpedia](https://www.sqlpedia.pl/kurs-sql/)
 * [guru99](https://www.guru99.com/)
+* [Waldemar Szafraniec Testy i szkolenia](https://www.wyszkolewas.com.pl/)
+* [To nie bug](https://www.toniebug.pl/)
+* [Bugfree blog](https://bugfreeblog.com/)
+* [Mr Buggy](http://mrbuggy.pl/)
 
 ## My individual projects
 
@@ -75,4 +86,4 @@ This section contains examples of issues I've reported and examples of test case
 
 ### Test cases
 
-I would like to emphasize that the **test cases were not written by me**. As a manual tester, I only dealt with execution.
+I would like to emphasize that **the test cases were not written by me**. As a manual tester, I only dealt with execution.
