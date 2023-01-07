@@ -81,12 +81,11 @@ I would personally call this section the most interesting. I will be adding more
 
 This section contains examples of issues I've reported and examples of test cases I've executed on the uTest - crowdtesting platform.
 
-[My activity stats](https://drive.google.com/file/d/1JMCim2Ukt6bQxTXkRa2HiHpifw42cDYV/view)
-
 ### Issues reports
 
-
-
+[Example 1](https://drive.google.com/file/d/1vlFxSGTRRn1yxlcMFxHDIIAu2puACiSz/view)
+[Example 2](https://drive.google.com/file/d/1izherzpqvuEW9bIQ1ByRD2VlPDz6RaE_/view)
+[Example 3](https://drive.google.com/file/d/1EKy0Xa-yd5orgWywR26DCh6sdBhNRr10/view)
 
 ### Test cases
 
