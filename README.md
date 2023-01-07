@@ -83,8 +83,8 @@ This section contains examples of issues I've reported and examples of test case
 
 ### Issues reports
 
-[Example 1](https://drive.google.com/file/d/1vlFxSGTRRn1yxlcMFxHDIIAu2puACiSz/view)
-[Example 2](https://drive.google.com/file/d/1izherzpqvuEW9bIQ1ByRD2VlPDz6RaE_/view)
+[Example 1](https://drive.google.com/file/d/1vlFxSGTRRn1yxlcMFxHDIIAu2puACiSz/view)<br>
+[Example 2](https://drive.google.com/file/d/1izherzpqvuEW9bIQ1ByRD2VlPDz6RaE_/view)<br>
 [Example 3](https://drive.google.com/file/d/1EKy0Xa-yd5orgWywR26DCh6sdBhNRr10/view)
 
 ### Test cases
