@@ -14,27 +14,27 @@ Thank you for visiting my repository. It means a lot to me.
 This section contains the tools I've had the opportunity to use and the skills I've acquired. I'm still expanding it.
 
 * **Software testing tools**
-  * [Jira](https://www.atlassian.com/pl/software/jira)
-  * [Postman](https://www.postman.com/)
-  * [Testlink](https://www.testlink.org/)
+  * [Jira](https://www.atlassian.com/pl/software/jira) - issue-tracking and project-management software application
+  * [Postman](https://www.postman.com/) - software to design, build, test and iterate APIs
+  * [Testlink](https://www.testlink.org/) - test management system that facilitates software quality assurance
 
 * **Skills**
   * **SQL**: SELECT, INSERT, UPDATE, DELETE, WHERE
-  * **API**: GET
+  * **API**: GET, PUT, POST, DELETE
   * Test cases executing
   * Issues reporting
   * Log collecting
 
 * **Tools**
-  * [Github](https://github.com/)
-  * [Slack](https://slack.com/)
-  * [ShareX](https://getsharex.com/)
-  * [PicPick](https://picpick.app/pl/)
-  * [Charles Proxy](https://www.charlesproxy.com/)
-  * [AZ Screen Recorder](https://az-screen-recorder.en.uptodown.com/android)
-  * [HandBrake](https://handbrake.fr/)
-  * [Android SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
-
+  * [Github](https://github.com/) - hosting service for software development
+  * [Slack](https://slack.com/) - instant messaging program
+  * [ShareX](https://getsharex.com/) - screenshot and screencast program
+  * [PicPick](https://picpick.app/pl/) - screen capture and recording software
+  * [Charles Proxy](https://www.charlesproxy.com/) - HTTP debugging proxy server application
+  * [AZ Screen Recorder](https://az-screen-recorder.en.uptodown.com/android) - Android screen recorder
+  * [HandBrake](https://handbrake.fr/) - transcoder for digital video files
+  * [Android SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools) - set of development tools
+ 
 * **OS**
   * [Windows](https://www.microsoft.com/pl-pl/windows)
   * [Android](https://www.android.com/intl/pl_pl/)
@@ -83,9 +83,6 @@ This section contains examples of issues I've reported and examples of test case
 
 ### Issues reports
 
-[Example 1](https://drive.google.com/file/d/1vlFxSGTRRn1yxlcMFxHDIIAu2puACiSz/view)<br>
-[Example 2](https://drive.google.com/file/d/1izherzpqvuEW9bIQ1ByRD2VlPDz6RaE_/view)<br>
-[Example 3](https://drive.google.com/file/d/1EKy0Xa-yd5orgWywR26DCh6sdBhNRr10/view)
 
 ### Test cases
 
