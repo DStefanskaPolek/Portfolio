@@ -83,6 +83,9 @@ This section contains examples of issues I've reported and examples of test case
 
 ### Issues reports
 
+* [Android app issue](https://drive.google.com/file/d/1j37wP0BnwbM8zlCVA5ZlywkuTffe2-Ic/view) application for renting scooters
+* [Website issue](https://drive.google.com/file/d/1Yc0lRyRCXAfLzkF4OAsaHjs0HF59BYi1/view) car selling platform for uTest Academy purpose
+* [Android app issue](https://drive.google.com/file/d/19f64KoRyewxYAPThLBMuTzjsWKLi89ak/view) for TV Guide an Streaming Information App
 
 ### Test cases
 
