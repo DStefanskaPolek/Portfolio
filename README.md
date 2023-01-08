@@ -80,8 +80,10 @@ I would personally call this section the most interesting. I will be adding more
 ## uTest
 
 This section contains examples of issues I've reported and statistics of my activity on the platform on the uTest - crowdtesting platform.<br>
-I realize that my stats could be more impressive. However, I preferred to focus on theoretical learning so that I could take my first full-time job as a software tester. uTest, unfortunately, does not work in the long run, which I will gladly talk about during the job interview.<br>
-Currently, I am a member of a permanent team involved in regression testing of a mobile app for a client related to the cosmetics industry.
+*I realize that my stats could be more impressive. However, I preferred to focus on theoretical learning so that I could take my first full-time job as a software tester. uTest, unfortunately, does not work in the long run, which I will gladly talk about during the job interview.*
+
+
+Currently, **I am a member of a permanent team involved in regression testing of a mobile app** for a client related to the cosmetics industry.
 
 ### Issues reports
 
