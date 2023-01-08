@@ -79,14 +79,20 @@ I would personally call this section the most interesting. I will be adding more
 
 ## uTest
 
-This section contains examples of issues I've reported and examples of test cases I've executed on the uTest - crowdtesting platform.
+This section contains examples of issues I've reported and statistics of my activity on the platform on the uTest - crowdtesting platform.<br>
+I realize that my stats could be more impressive. However, I preferred to focus on theoretical learning so that I could take my first full-time job as a software tester. uTest, unfortunately, does not work in the long run, which I will gladly talk about during the job interview.<br>
+Currently, I am a member of a permanent team involved in regression testing of a mobile app for a client related to the cosmetics industry.
 
 ### Issues reports
 
-* [Android app issue](https://drive.google.com/file/d/1j37wP0BnwbM8zlCVA5ZlywkuTffe2-Ic/view) application for renting scooters
-* [Website issue](https://drive.google.com/file/d/1Yc0lRyRCXAfLzkF4OAsaHjs0HF59BYi1/view) car selling platform for uTest Academy purpose
-* [Android app issue](https://drive.google.com/file/d/19f64KoRyewxYAPThLBMuTzjsWKLi89ak/view) for TV Guide an Streaming Information App
+In issues reports, I use generic names such as: app or website, because I am obliged to confidentiality regarding my cooperations.
 
-### Test cases
+* [Android app issue](https://drive.google.com/file/d/1j37wP0BnwbM8zlCVA5ZlywkuTffe2-Ic/view) - renting scooters app
+* [Website issue](https://drive.google.com/file/d/1Yc0lRyRCXAfLzkF4OAsaHjs0HF59BYi1/view) - car selling platform created for uTest Academy purpose
+* [Android app issue](https://drive.google.com/file/d/19f64KoRyewxYAPThLBMuTzjsWKLi89ak/view) - TV guide and streaming information app
 
-I would like to emphasize that **the test cases were not written by me**. As a manual tester, I only dealt with execution.
+### Statistics
+
+* [My activity](https://drive.google.com/file/d/1JMCim2Ukt6bQxTXkRa2HiHpifw42cDYV/view) - general activity statistics
+* [Status and quality of localization issues reports](https://drive.google.com/file/d/1aJhM0l5oqRpuBpBWCW0Jk8uzhzHAokBq/view) - charts showing percentage share
+* [Status and quality of functional issues reports](https://drive.google.com/file/d/1Ejq3b_AgkW-rYPALkZVPFyXdC938yxn4/view) - charts showing percentage share
