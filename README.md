@@ -77,6 +77,18 @@ I would personally call this section the most interesting. I will be adding more
 ### Test cases
 
 
+### SQL statements
+
+* [Records of customers living in Sweden, in cities starting with "B"](https://drive.google.com/file/d/1CTsvufHZxsCZLVbAX69GKSwY4UqhkNrt/view)
+* [Records of products with prices between 10 and 40, and category ID 2 or supplier ID 1](https://drive.google.com/file/d/1FvAdOuhjR7JUQfj2BeY5DdK5gTi1nxUi/view)
+* [Insert into categories](https://drive.google.com/file/d/1gDWDpU_AOXaGclw9JQ_0j9S_1GFPaDvP/view)
+* [Update contact name](https://drive.google.com/file/d/1wnRGL-sZGi439yPnuIahIt3jmxPFLP8f/view)
+* [Delete from employees](https://drive.google.com/file/d/18yQhV8eNhwDECE4KHqQFeVQuthfyUE4L/view)
+
+## Cooperation project
+
+This is my project co-created with another tester. The work is in progress. I will be posting more material here.
+
 ## uTest
 
 This section contains examples of issues I've reported and statistics of my activity on the platform on the uTest - crowdtesting platform.<br>
