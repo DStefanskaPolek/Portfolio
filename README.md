@@ -39,6 +39,11 @@ This section contains the tools I've had the opportunity to use and the skills I
   * [Windows](https://www.microsoft.com/pl-pl/windows)
   * [Android](https://www.android.com/intl/pl_pl/)
 
+* **Programming languages**
+  * **C++** - basic
+  * **Java** - basic
+  * **JavaScript** - very basic
+
 ## Learning materials
 
 This section contains materials that I used during my studies. There's plenty of material available, so I'm always looking for opportunities to develop.
