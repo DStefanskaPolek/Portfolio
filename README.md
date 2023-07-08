@@ -90,9 +90,14 @@ I would personally call this section the most interesting. I will be adding more
 * [Update contact name](https://drive.google.com/file/d/1wnRGL-sZGi439yPnuIahIt3jmxPFLP8f/view)
 * [Delete from employees](https://drive.google.com/file/d/18yQhV8eNhwDECE4KHqQFeVQuthfyUE4L/view)
 
+## Coding skills
+
+This is the space where I spend most of my time right now. I have been exposed to several programming languages. My greatest passion is currently C++ and I spend every free moment on learning. I will post my future coding exercises in this section, and someday I hope that this place will become my memento for the future and a trace of my path from the past.
+
 ### My good codes only
 
 * [C++](https://github.com/DStefanskaPolek/Cpp)
+* [Java](https://github.com/DStefanskaPolek/Java)
 
 ## Cooperation project
 
