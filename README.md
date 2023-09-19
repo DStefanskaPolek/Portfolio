@@ -53,6 +53,7 @@ This section contains materials that I used during my studies. There's plenty of
 ### Books
 
 * R. Smilgin - Zawód Tester
+* Allen B. Downey - Myśl w języku Python! / Think Python
 
 ### Groups on Facebook
 
