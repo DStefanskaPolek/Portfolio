@@ -40,9 +40,9 @@ This section contains the tools I've had the opportunity to use and the skills I
   * [Android](https://www.android.com/intl/pl_pl/)
 
 * **Programming languages**
+  * **Python** - intermediate
   * **C++** - basic
   * **Java** - basic
-  * **JavaScript** - very basic
 
 ## Learning materials
 
@@ -96,8 +96,8 @@ This is the space where I spend most of my time right now. I have been exposed t
 
 #### My good codes only
 
+* [Python](https://github.com/DStefanskaPolek/Python)
 * [C++](https://github.com/DStefanskaPolek/Cpp)
-* [Java](https://github.com/DStefanskaPolek/Java)
 
 ## Cooperation project
 
