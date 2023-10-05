@@ -19,7 +19,6 @@ This section contains the tools I've had the opportunity to use and the skills I
   * [Testlink](https://www.testlink.org/) - test management system that facilitates software quality assurance
 
 * **Skills**
-  * Selenium
   * SQL
   * API
   * Test cases executing
@@ -28,12 +27,8 @@ This section contains the tools I've had the opportunity to use and the skills I
 
 * **Tools**
   * [Github](https://github.com/) - hosting service for software development
-  * [Slack](https://slack.com/) - instant messaging program
-  * [ShareX](https://getsharex.com/) - screenshot and screencast program
-  * [PicPick](https://picpick.app/pl/) - screen capture and recording software
+  * [Selenium](https://www.selenium.dev/) - automating web applications for testing purposes
   * [Charles Proxy](https://www.charlesproxy.com/) - HTTP debugging proxy server application
-  * [AZ Screen Recorder](https://az-screen-recorder.en.uptodown.com/android) - Android screen recorder
-  * [HandBrake](https://handbrake.fr/) - transcoder for digital video files
   * [Android SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools) - set of development tools
  
 * **OS**
