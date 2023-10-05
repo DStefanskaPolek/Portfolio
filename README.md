@@ -19,8 +19,9 @@ This section contains the tools I've had the opportunity to use and the skills I
   * [Testlink](https://www.testlink.org/) - test management system that facilitates software quality assurance
 
 * **Skills**
-  * **SQL**: SELECT, INSERT, UPDATE, DELETE, WHERE
-  * **API**: GET, PUT, POST, DELETE
+  * Selenium
+  * SQL
+  * API
   * Test cases executing
   * Issues reporting
   * Log collecting
