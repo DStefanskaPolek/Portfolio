@@ -99,6 +99,9 @@ This is the space where I spend most of my time right now. I have been exposed t
 ## Cooperation project
 
 This is my project co-created with another tester. The work is in progress. I will be posting more material here.
+We're testing my [Login.py console application.](https://github.com/DStefanskaPolek/Python/blob/main/Login%20console%20application/Login.py)
+And here is [our test plan!](https://smiling-week-30c.notion.site/Testing-Fun-30ed7c85686b4e22bbe6bd4a0e9b1555?pvs=4)
+More will be posted soon, I hope.
 
 ## uTest
 
